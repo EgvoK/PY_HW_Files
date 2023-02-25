@@ -1,0 +1,6 @@
+Statistic about source file:
+Symbols quantity: 780
+Strings quantity: 9
+Vowels quantity: 212
+Consonants quantity: 422
+Numbers quantity: 8
